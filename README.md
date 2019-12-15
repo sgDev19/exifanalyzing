@@ -16,6 +16,9 @@ If you like to have a launcher follow the instructions in install.txt. This will
 
 If you like to run the app directly move into exifanalizing folder and run ./start. 
 
+Windows
+Download the package and unpack. To run the app go to the exifanalizing directory and run start.exe.
+
 # Built With
 - phyton 3.7
 - tkinter

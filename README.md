@@ -41,4 +41,4 @@ This project is licensed under GNU Lesser General Public License v3.0. <a href="
   
 # Donation
 If this app helps you to save time during your work, you can place donation. Thanks!<br />
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](gaeste@protonmail.com)
+[![paypal] (https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](gaeste@protonmail.com)

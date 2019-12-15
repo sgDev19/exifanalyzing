@@ -9,14 +9,14 @@ If Python is installed on your system you must switch zu Python 3.7. (https://li
 # Installing
 install exiftool first
 
-Debian / Ubuntu
+<strong>Debian / Ubuntu</strong><br />
 Download the package and unpack it to Documents.
 
 If you like to have a launcher follow the instructions in install.txt. This will move the program folder to /opt and the exifanalizing.desktop to /usr/share/applivations/.
 
 If you like to run the app directly move into exifanalizing folder and run ./start. 
 
-Windows
+<strong>Windows</strong><br />
 Download the package and unpack. To run the app go to the exifanalizing directory and run start.exe.
 
 # Built With

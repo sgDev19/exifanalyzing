@@ -27,7 +27,7 @@ Download the package and unpack. To run the app go to the exifanalizing director
 # Versioning
 1.0 
 
-# Authors
+# Author
 Stefan Gaemperle
 
 # License
